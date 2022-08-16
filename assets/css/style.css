@@ -1,0 +1,45 @@
+.container {
+    width: 1200px;
+    margin: 150px auto;
+    
+}
+
+.clear {
+    clear: both;
+}
+
+.logo {
+    width: 400px;
+    float: left;
+    margin-left: 400px;
+}
+
+.searchbox {
+    width: 1200px;
+    float: left;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.linkbox {
+    width: 398px;
+    height: 75px;
+    float: left;
+    text-align: center;
+    padding: 20px 0;
+    margin-right: 2px;
+    margin-top: 5px;
+}
+
+.copyright {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.bg-grey {
+    background-color: rgb(238, 238, 238);
+}
+
+.bg-aqua {
+    background-color: rgb(126, 229, 218);
+}
